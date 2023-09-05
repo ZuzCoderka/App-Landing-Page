@@ -5,9 +5,9 @@ I am passionate about travelling and I had already done a UX case study on a tra
 
 First I started with structuring my html into logical segments:
 
--menu section
--introduction section
--about app section
+ -menu section
+ -introduction section
+ -about app section
 
 Then I  focused on creating an appealing css to create travel vibe by using colors that resemble beach, sea, forest, relaxation.
 
